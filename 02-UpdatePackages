@@ -1,0 +1,9 @@
+#!/bin/bash
+#
+#
+#
+#
+#
+apt-get update
+apt-get upgrade -y
+apt-get install -y python3-pip xfce4 xfce4-goodies tightvncserver encfs
